@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Kubra%20Fathima&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00C9FF&height=200&section=header&text=Kubra%20Fathima&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="mailto:fathima04kubra@gmail.com">fathima04kubra@gmail.com</a> &nbsp;·&nbsp; Bangalore, India &nbsp;·&nbsp; +91 88673 03611
 
@@ -26,77 +26,66 @@ Currently a Full Stack Developer at **DigitalClickTag**, a web development and d
 
 ## Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
 ### Novariaa K-Lumniss
-**Fashion E-Commerce Platform**
+**Fashion E-Commerce Platform** · [Visit Site ↗](https://www.novariaaklumniss.com)
 
-Women's fashion storefront with dynamic product listings, category filters, size selection, and full cart-to-checkout flow. Backend handles product catalog, accounts, and order processing.
+Women's fashion storefront for an India-based clothing brand — dynamic product listings, category filters, size selection, and a full cart-to-checkout flow. Backend handles the product catalog, user accounts, and order processing.
 
-`Next.js` `React` `Node.js` `MongoDB` `Tailwind`
+`Next.js` &nbsp;`React.js`&nbsp; `Node.js` &nbsp;`MongoDB`&nbsp; `Tailwind CSS`
 
-**[novariaaklumniss.com →](https://www.novariaaklumniss.com)**
+<br/>
 
-</td>
-<td width="50%" valign="top">
+---
+
+<br/>
 
 ### Reach Auto Parts
-**Auto Parts Marketplace (US)**
+**OEM Auto Parts Marketplace (US)** · [Visit Site ↗](https://www.reachautoparts.us)
 
-OEM used auto parts marketplace with VIN-verified fitment search and make/model/year filtering. Built for large inventory and nationwide order management.
+A US-based e-commerce marketplace for OEM used auto parts, with VIN-verified fitment search and make/model/year filtering, built to handle large inventories with nationwide order management.
 
-`Next.js` `React` `Node.js` `SQL` `AWS Amplify`
+`Next.js` &nbsp;`React.js`&nbsp; `Node.js` &nbsp;`SQL`&nbsp; `AWS Amplify`
 
-**[reachautoparts.us →](https://www.reachautoparts.us)**
+<br/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-### Reach Auto Parts — CRM
-**Internal Operations Dashboard**
+<br/>
 
-Role-based dashboard for inventory, order tracking, and customer history, with interactive charts for sales trends and fulfillment rates.
+### Reach Auto Parts — CRM Dashboard
+**Internal Operations Dashboard** · [Visit Site ↗](https://dashboard.reachautoparts.us)
 
-`React` `Node.js` `SQL` `REST APIs`
+A custom dashboard built for the Reach Auto Parts team — inventory management, order tracking, and customer history, with role-based access control and interactive sales analytics.
 
-**[dashboard.reachautoparts.us →](https://dashboard.reachautoparts.us)**
+`React.js` &nbsp;`Node.js`&nbsp; `SQL` &nbsp;`REST APIs`
 
-</td>
-<td width="50%" valign="top">
+<br/>
+
+---
+
+<br/>
 
 ### KreativRoots
-**Interior Design Studio**
+**Interior Design Studio Website** · [Visit Site ↗](https://www.kreativroots.com)
 
-Marketing site for a Bangalore-based luxury interior design studio — filterable project gallery, before/after showcases, and a lead-capture consultation form.
+A marketing website for a Bangalore-based luxury interior design studio, featuring a filterable project gallery across categories like living rooms, kitchens, and bedrooms, before/after showcases, and a lead-capture consultation form.
 
-`Next.js` `React` `Tailwind`
+`Next.js` &nbsp;`React.js`&nbsp; `Tailwind CSS`
 
-**[kreativroots.com →](https://www.kreativroots.com)**
+<br/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
+
+<br/>
 
 ### Srivari Prints
-**Printing & Branding E-Commerce**
+**Printing & Branding E-Commerce** · [Visit Site ↗](https://www.srivariprints.com)
 
-Online store for a printing business — visiting cards, number plates, banners, and custom gifts, with a full catalog, order tracking, and customer accounts.
+An online store for a printing and branding business covering visiting cards, vehicle number plates, banners, and custom corporate gifts, with a full product catalog, order tracking, and customer login/wishlist system.
 
-`Next.js` `React` `Node.js`
-
-**[srivariprints.com →](https://www.srivariprints.com)**
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
-</table>
+`Next.js` &nbsp;`React.js`&nbsp; `Node.js`
 
 <br/>
 
@@ -123,4 +112,4 @@ Joined as an intern, moved into a full-time role within three months. Build and 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:E100FF,100:7F00FF&height=100&section=footer" width="100%"/>
