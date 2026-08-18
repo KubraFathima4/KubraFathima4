@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00C9FF&height=200&section=header&text=Kubra%20Fathima&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:451A03,50:92400E,100:B45309&height=200&section=header&text=Kubra%20Fathima&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="mailto:fathima04kubra@gmail.com">fathima04kubra@gmail.com</a> &nbsp;·&nbsp; Bangalore, India &nbsp;·&nbsp; +91 88673 03611
 
@@ -28,72 +28,72 @@ Currently a Full Stack Developer at **DigitalClickTag**, a web development and d
 
 <br/>
 
-### 🟣 Novariaa K-Lumniss
+### 🟤 Novariaa K-Lumniss
 **Fashion E-Commerce Platform**
 
 Women's fashion storefront for an India-based clothing brand — dynamic product listings, category filters, size selection, and a full cart-to-checkout flow. Backend handles the product catalog, user accounts, and order processing.
 
-![Next.js](https://img.shields.io/badge/Next.js-7F00FF?style=for-the-badge&logoColor=white)
-![React](https://img.shields.io/badge/React-7F00FF?style=for-the-badge&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-7F00FF?style=for-the-badge&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-7F00FF?style=for-the-badge&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-92400E?style=for-the-badge&logoColor=white)
+![React](https://img.shields.io/badge/React-92400E?style=for-the-badge&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-92400E?style=for-the-badge&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-92400E?style=for-the-badge&logoColor=white)
 
-[![Visit Site](https://img.shields.io/badge/Visit%20Site-7F00FF?style=for-the-badge&logoColor=white)](https://www.novariaaklumniss.com)
+[![Visit Site](https://img.shields.io/badge/Visit%20Site-92400E?style=for-the-badge&logoColor=white)](https://www.novariaaklumniss.com)
 
 <br/>
 
-### 🩷 Reach Auto Parts
+### 🟠 Reach Auto Parts
 **OEM Auto Parts Marketplace (US)**
 
 A US-based e-commerce marketplace for OEM used auto parts, with VIN-verified fitment search and make/model/year filtering, built to handle large inventories with nationwide order management.
 
-![Next.js](https://img.shields.io/badge/Next.js-E100FF?style=for-the-badge&logoColor=white)
-![React](https://img.shields.io/badge/React-E100FF?style=for-the-badge&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-E100FF?style=for-the-badge&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-E100FF?style=for-the-badge&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20Amplify-E100FF?style=for-the-badge&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-B45309?style=for-the-badge&logoColor=white)
+![React](https://img.shields.io/badge/React-B45309?style=for-the-badge&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-B45309?style=for-the-badge&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-B45309?style=for-the-badge&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20Amplify-B45309?style=for-the-badge&logoColor=white)
 
-[![Visit Site](https://img.shields.io/badge/Visit%20Site-E100FF?style=for-the-badge&logoColor=white)](https://www.reachautoparts.us)
+[![Visit Site](https://img.shields.io/badge/Visit%20Site-B45309?style=for-the-badge&logoColor=white)](https://www.reachautoparts.us)
 
 <br/>
 
-### 🔵 Reach Auto Parts — CRM Dashboard
+### 🟤 Reach Auto Parts — CRM Dashboard
 **Internal Operations Dashboard**
 
 A custom dashboard built for the Reach Auto Parts team — inventory management, order tracking, and customer history, with role-based access control and interactive sales analytics.
 
-![React](https://img.shields.io/badge/React-00C9FF?style=for-the-badge&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-00C9FF?style=for-the-badge&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00C9FF?style=for-the-badge&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-00C9FF?style=for-the-badge&logoColor=white)
+![React](https://img.shields.io/badge/React-78350F?style=for-the-badge&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-78350F?style=for-the-badge&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-78350F?style=for-the-badge&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-78350F?style=for-the-badge&logoColor=white)
 
-[![Visit Site](https://img.shields.io/badge/Visit%20Site-00C9FF?style=for-the-badge&logoColor=white)](https://dashboard.reachautoparts.us)
+[![Visit Site](https://img.shields.io/badge/Visit%20Site-78350F?style=for-the-badge&logoColor=white)](https://dashboard.reachautoparts.us)
 
 <br/>
 
-### 🟣 KreativRoots
+### 🟠 KreativRoots
 **Interior Design Studio Website**
 
 A marketing website for a Bangalore-based luxury interior design studio, featuring a filterable project gallery across categories like living rooms, kitchens, and bedrooms, before/after showcases, and a lead-capture consultation form.
 
-![Next.js](https://img.shields.io/badge/Next.js-9333EA?style=for-the-badge&logoColor=white)
-![React](https://img.shields.io/badge/React-9333EA?style=for-the-badge&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-9333EA?style=for-the-badge&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-A16207?style=for-the-badge&logoColor=white)
+![React](https://img.shields.io/badge/React-A16207?style=for-the-badge&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-A16207?style=for-the-badge&logoColor=white)
 
-[![Visit Site](https://img.shields.io/badge/Visit%20Site-9333EA?style=for-the-badge&logoColor=white)](https://www.kreativroots.com)
+[![Visit Site](https://img.shields.io/badge/Visit%20Site-A16207?style=for-the-badge&logoColor=white)](https://www.kreativroots.com)
 
 <br/>
 
-### 🩷 Srivari Prints
+### 🟤 Srivari Prints
 **Printing & Branding E-Commerce**
 
 An online store for a printing and branding business covering visiting cards, vehicle number plates, banners, and custom corporate gifts, with a full product catalog, order tracking, and customer login/wishlist system.
 
-![Next.js](https://img.shields.io/badge/Next.js-EC4899?style=for-the-badge&logoColor=white)
-![React](https://img.shields.io/badge/React-EC4899?style=for-the-badge&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-EC4899?style=for-the-badge&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-713F12?style=for-the-badge&logoColor=white)
+![React](https://img.shields.io/badge/React-713F12?style=for-the-badge&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-713F12?style=for-the-badge&logoColor=white)
 
-[![Visit Site](https://img.shields.io/badge/Visit%20Site-EC4899?style=for-the-badge&logoColor=white)](https://www.srivariprints.com)
+[![Visit Site](https://img.shields.io/badge/Visit%20Site-713F12?style=for-the-badge&logoColor=white)](https://www.srivariprints.com)
 
 <br/>
 
@@ -120,4 +120,4 @@ Joined as an intern, moved into a full-time role within three months. Build and 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:E100FF,100:7F00FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B45309,50:92400E,100:451A03&height=100&section=footer" width="100%"/>
