@@ -1,28 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:451A03,50:92400E,100:B45309&height=200&section=header&text=Kubra%20Fathima&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20Node.js&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00C9FF&height=200&section=header&text=Kubra%20Fathima&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20Node.js&descAlignY=58&descSize=17" width="100%"/>
 
 </div>
 
 ## Who I Am
 
-```bash
-kubra@devbox ~ % whoami
-Full Stack Developer, based in Bangalore, India
+```
+GET /api/v1/developers/kubra-fathima HTTP/1.1
+Host: github.com
+```
 
-kubra@devbox ~ % cat current_role.txt
-Building e-commerce platforms, CRM dashboards, and business
-websites at DigitalClickTag — for clients across India and the US.
-
-kubra@devbox ~ % git log --oneline --author="Kubra" -5
-a3f9c21  shipped Reach Auto Parts marketplace on AWS Amplify
-7d1e88b  built CRM dashboard with role-based access control
-4b6a012  launched Novariaa K-Lumniss storefront on Vercel
-9c3f5e7  optimized Core Web Vitals + SEO across client sites
-2e8d114  started as intern, promoted to full-time in 3 months
-
-kubra@devbox ~ % echo $CURRENTLY_LEARNING
-"Going deeper into scalable architecture and cloud infra"
+```json
+{
+  "status": 200,
+  "data": {
+    "name": "Kubra Fathima",
+    "role": "Full Stack Developer",
+    "company": "DigitalClickTag",
+    "location": "Bangalore, India",
+    "experience": "1+ years, production client work",
+    "stack": {
+      "frontend": ["React.js", "Next.js", "Tailwind CSS"],
+      "backend": ["Node.js", "Express.js", "MongoDB", "SQL"],
+      "cloud": ["AWS Amplify", "AWS Lightsail", "Vercel"]
+    },
+    "shipped": [
+      "e-commerce platforms",
+      "CRM dashboards",
+      "business websites for clients in India & the US"
+    ],
+    "currentlyLearning": "scalable architecture, cloud infrastructure",
+    "openTo": "full-time opportunities as a Full Stack Developer"
+  }
+}
 ```
 
 <br/>
@@ -101,34 +112,10 @@ Full online store for custom printing — visiting cards, number plates, banners
 
 <br/>
 
-## GitHub Analytics Dashboard
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=KubraFathima4&label=Profile%20Views&color=92400E&style=flat" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=KubraFathima4&show_icons=true&theme=default&hide_border=true&title_color=92400E&icon_color=B45309&text_color=333333&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KubraFathima4&theme=default&hide_border=true&background=FFFFFF&ring=92400E&fire=B45309&currStreakLabel=92400E" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KubraFathima4&layout=compact&hide_border=true&theme=default&title_color=92400E&text_color=333333" width="40%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=KubraFathima4&theme=flat&no-frame=true&column=3&margin-w=10&margin-h=10" width="55%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KubraFathima4&theme=minimal&hide_border=true&color=92400E&line=B45309&point=451A03" width="90%"/>
-
-</div>
-
-<br/>
-
 ## Let's Connect
 
 Reach out at **fathima04kubra@gmail.com** or find me on GitHub.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B45309,50:92400E,100:451A03&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:E100FF,100:7F00FF&height=100&section=footer" width="100%"/>
 </div>
