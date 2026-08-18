@@ -68,38 +68,114 @@ Host: github.com
 
 <br/>
 
-**Novariaa K-Lumniss** — *Fashion E-Commerce*
-Storefront for a women's clothing brand — product filters, size selection, cart & checkout, built with a Node.js/MongoDB backend behind it. Deployed on Vercel with CI/CD.
+<details open>
+<summary><b>🛍️ Novariaa K-Lumniss — Fashion E-Commerce Platform</b></summary>
+<br/>
 
-`Next.js` `React.js` `Node.js` `MongoDB` `Tailwind CSS` — **[Live site ↗](https://www.novariaaklumniss.com)**
+A full storefront for a women's fashion brand, built from the ground up — frontend, backend, and deployment.
+
+**What it does**
+- Dynamic product listings with category, size, and price filters
+- Full cart-to-checkout flow with order confirmation
+- User accounts with order history
+- SEO-optimized product pages (Open Graph tags, structured data, canonical URLs)
+
+**What I built**
+- Storefront UI in Next.js and React, fully responsive
+- REST API in Node.js for products, users, and orders
+- MongoDB schema for catalog and inventory
+- CI/CD pipeline on Vercel with custom domain, SSL, and CDN
+
+**Stack:** `Next.js` `React.js` `Node.js` `MongoDB` `Tailwind CSS` `Vercel`
+**Live:** [novariaaklumniss.com ↗](https://www.novariaaklumniss.com)
+
+</details>
 
 <br/>
 
-**Reach Auto Parts** — *OEM Auto Parts Marketplace (US)*
-VIN-verified parts search by make/model/year, built to handle large inventories with nationwide order support. Backend on Node.js and SQL, deployed on AWS Amplify with auto-scaling.
+<details open>
+<summary><b>🚗 Reach Auto Parts — OEM Auto Parts Marketplace (US)</b></summary>
+<br/>
 
-`Next.js` `React.js` `Node.js` `SQL` `AWS Amplify` — **[Live site ↗](https://www.reachautoparts.us)**
+A US-based e-commerce marketplace for used OEM auto parts, built to handle serious scale — large inventories, nationwide shipping, and VIN-level accuracy.
+
+**What it does**
+- Product search by make, model, and year
+- VIN-based fitment verification before purchase
+- 90-day warranty program built into the ordering flow
+- Nationwide shipping and order tracking
+
+**What I built**
+- Frontend in Next.js/React with fast, filterable search
+- Backend services in Node.js and SQL for inventory and orders at scale
+- Performance tuning for Core Web Vitals and search ranking
+- Deployment on AWS Amplify with auto-scaling and custom domain
+
+**Stack:** `Next.js` `React.js` `Node.js` `SQL` `AWS Amplify` `Tailwind CSS`
+**Live:** [reachautoparts.us ↗](https://www.reachautoparts.us)
+
+</details>
 
 <br/>
 
-**Reach Auto Parts CRM** — *Internal Ops Dashboard*
-Role-based dashboard for inventory, order tracking, and customer history, with live sales analytics for the operations team.
+<details open>
+<summary><b>📊 Reach Auto Parts — CRM & Operations Dashboard</b></summary>
+<br/>
 
-`React.js` `Node.js` `SQL` `REST APIs` — **[Live site ↗](https://dashboard.reachautoparts.us)**
+An internal tool built for the Reach Auto Parts team to actually run the business day to day — not customer-facing, but just as important.
+
+**What it does**
+- Real-time inventory and order tracking
+- Customer interaction history in one place
+- Sales analytics with visual reporting
+- Role-based access for admins, sales staff, and warehouse teams
+
+**What I built**
+- Dashboard UI in React with interactive charts
+- Node.js and SQL backend with REST APIs
+- Role-based access control (RBAC) logic
+- Hosted on AWS Lightsail
+
+**Stack:** `React.js` `Node.js` `SQL` `REST APIs` `AWS Lightsail`
+**Live:** [dashboard.reachautoparts.us ↗](https://dashboard.reachautoparts.us)
+
+</details>
 
 <br/>
 
-**KreativRoots** — *Interior Design Studio Site*
-Marketing site for a Bangalore interior design studio — filterable project gallery, before/after showcase, and a consultation lead form.
+<details open>
+<summary><b>🏠 KreativRoots — Interior Design Studio Website</b></summary>
+<br/>
 
-`Next.js` `React.js` `Tailwind CSS` — **[Live site ↗](https://www.kreativroots.com)**
+A marketing and portfolio site for a Bangalore-based luxury interior design studio.
+
+**What it does**
+- Filterable project gallery across rooms (living room, kitchen, bedroom, bathroom, and more)
+- Before-and-after showcase for completed projects
+- Lead-capture consultation form for new client inquiries
+
+**Stack:** `Next.js` `React.js` `Tailwind CSS`
+**Live:** [kreativroots.com ↗](https://www.kreativroots.com)
+
+</details>
 
 <br/>
 
-**Srivari Prints** — *Printing & Branding E-Commerce*
-Full online store for custom printing — visiting cards, number plates, banners, and gifts — with product catalog, order tracking, and customer accounts.
+<details open>
+<summary><b>🖨️ Srivari Prints — Printing & Branding E-Commerce</b></summary>
+<br/>
 
-`Next.js` `React.js` `Node.js` — **[Live site ↗](https://www.srivariprints.com)**
+An online store for a printing and branding business, covering everything from business cards to vehicle wraps.
+
+**What it does**
+- Full product catalog across categories (visiting cards, number plates, banners, gifts, and more)
+- Order tracking and customer login with wishlist
+- Quote request and bulk order flow for businesses
+
+**Stack:** `Next.js` `React.js` `Node.js`
+**Live:** [srivariprints.com ↗](https://www.srivariprints.com)
+
+</details>
 
 <br/>
 
@@ -114,7 +190,13 @@ Full online store for custom printing — visiting cards, number plates, banners
 
 ## Let's Connect
 
-Reach out at **fathima04kubra@gmail.com** or find me on GitHub.
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-7F00FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fathima04kubra@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-E100FF?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918867303611)
+[![GitHub](https://img.shields.io/badge/GitHub-00C9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KubraFathima4)
+
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:E100FF,100:7F00FF&height=100&section=footer" width="100%"/>
