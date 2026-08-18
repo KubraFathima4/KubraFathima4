@@ -28,64 +28,72 @@ Currently a Full Stack Developer at **DigitalClickTag**, a web development and d
 
 <br/>
 
-### Novariaa K-Lumniss
-**Fashion E-Commerce Platform** · [Visit Site ↗](https://www.novariaaklumniss.com)
+### 🟣 Novariaa K-Lumniss
+**Fashion E-Commerce Platform**
 
 Women's fashion storefront for an India-based clothing brand — dynamic product listings, category filters, size selection, and a full cart-to-checkout flow. Backend handles the product catalog, user accounts, and order processing.
 
-`Next.js` &nbsp;`React.js`&nbsp; `Node.js` &nbsp;`MongoDB`&nbsp; `Tailwind CSS`
+![Next.js](https://img.shields.io/badge/Next.js-7F00FF?style=for-the-badge&logoColor=white)
+![React](https://img.shields.io/badge/React-7F00FF?style=for-the-badge&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-7F00FF?style=for-the-badge&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-7F00FF?style=for-the-badge&logoColor=white)
+
+[![Visit Site](https://img.shields.io/badge/Visit%20Site-7F00FF?style=for-the-badge&logoColor=white)](https://www.novariaaklumniss.com)
 
 <br/>
 
----
-
-<br/>
-
-### Reach Auto Parts
-**OEM Auto Parts Marketplace (US)** · [Visit Site ↗](https://www.reachautoparts.us)
+### 🩷 Reach Auto Parts
+**OEM Auto Parts Marketplace (US)**
 
 A US-based e-commerce marketplace for OEM used auto parts, with VIN-verified fitment search and make/model/year filtering, built to handle large inventories with nationwide order management.
 
-`Next.js` &nbsp;`React.js`&nbsp; `Node.js` &nbsp;`SQL`&nbsp; `AWS Amplify`
+![Next.js](https://img.shields.io/badge/Next.js-E100FF?style=for-the-badge&logoColor=white)
+![React](https://img.shields.io/badge/React-E100FF?style=for-the-badge&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-E100FF?style=for-the-badge&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-E100FF?style=for-the-badge&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20Amplify-E100FF?style=for-the-badge&logoColor=white)
+
+[![Visit Site](https://img.shields.io/badge/Visit%20Site-E100FF?style=for-the-badge&logoColor=white)](https://www.reachautoparts.us)
 
 <br/>
 
----
-
-<br/>
-
-### Reach Auto Parts — CRM Dashboard
-**Internal Operations Dashboard** · [Visit Site ↗](https://dashboard.reachautoparts.us)
+### 🔵 Reach Auto Parts — CRM Dashboard
+**Internal Operations Dashboard**
 
 A custom dashboard built for the Reach Auto Parts team — inventory management, order tracking, and customer history, with role-based access control and interactive sales analytics.
 
-`React.js` &nbsp;`Node.js`&nbsp; `SQL` &nbsp;`REST APIs`
+![React](https://img.shields.io/badge/React-00C9FF?style=for-the-badge&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-00C9FF?style=for-the-badge&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00C9FF?style=for-the-badge&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-00C9FF?style=for-the-badge&logoColor=white)
+
+[![Visit Site](https://img.shields.io/badge/Visit%20Site-00C9FF?style=for-the-badge&logoColor=white)](https://dashboard.reachautoparts.us)
 
 <br/>
 
----
-
-<br/>
-
-### KreativRoots
-**Interior Design Studio Website** · [Visit Site ↗](https://www.kreativroots.com)
+### 🟣 KreativRoots
+**Interior Design Studio Website**
 
 A marketing website for a Bangalore-based luxury interior design studio, featuring a filterable project gallery across categories like living rooms, kitchens, and bedrooms, before/after showcases, and a lead-capture consultation form.
 
-`Next.js` &nbsp;`React.js`&nbsp; `Tailwind CSS`
+![Next.js](https://img.shields.io/badge/Next.js-9333EA?style=for-the-badge&logoColor=white)
+![React](https://img.shields.io/badge/React-9333EA?style=for-the-badge&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-9333EA?style=for-the-badge&logoColor=white)
+
+[![Visit Site](https://img.shields.io/badge/Visit%20Site-9333EA?style=for-the-badge&logoColor=white)](https://www.kreativroots.com)
 
 <br/>
 
----
-
-<br/>
-
-### Srivari Prints
-**Printing & Branding E-Commerce** · [Visit Site ↗](https://www.srivariprints.com)
+### 🩷 Srivari Prints
+**Printing & Branding E-Commerce**
 
 An online store for a printing and branding business covering visiting cards, vehicle number plates, banners, and custom corporate gifts, with a full product catalog, order tracking, and customer login/wishlist system.
 
-`Next.js` &nbsp;`React.js`&nbsp; `Node.js`
+![Next.js](https://img.shields.io/badge/Next.js-EC4899?style=for-the-badge&logoColor=white)
+![React](https://img.shields.io/badge/React-EC4899?style=for-the-badge&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-EC4899?style=for-the-badge&logoColor=white)
+
+[![Visit Site](https://img.shields.io/badge/Visit%20Site-EC4899?style=for-the-badge&logoColor=white)](https://www.srivariprints.com)
 
 <br/>
 
